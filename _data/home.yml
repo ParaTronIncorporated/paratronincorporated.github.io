@@ -14,17 +14,8 @@ project_entries:
 old_project_entries:
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  - title: PARATRON DISCORD
+    url: https://discord.gg/CRq6e7ME89
 
 misc_entries:
   - title: this is an example vertical list
