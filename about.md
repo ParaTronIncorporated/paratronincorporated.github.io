@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+**ParaTron Incorporated is a software based development industry mainly aiming to provide a usefull tools for various of diffrent games like roblox and more.**
 
-Actually, it has the same layout of a post...
+**Support Server:** https://discord.gg/CRq6e7ME89
